@@ -5,6 +5,8 @@ public class SubtractTwoNumbersInJava {
  
            System.out.println("firstNumber - secondNumber = "
                         + (firstNumber - secondNumber));
+           System.out.println("firstNumber - secondNumber = "+ (firstNumber - secondNumber));
+                   
  
     }
 }
